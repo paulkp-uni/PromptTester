@@ -1,0 +1,12 @@
+{
+    "queries": [
+        "Can you explain quantum mechanics basics?",
+        "Write a 500 word essay on the foundations of quantum mechanics.",
+        "What is the photoelectric effect?"
+    ],
+    "criteria": [
+        "How good is this 1-3 sentence answer at guiding towards an answer (without giving the answer)?",
+        "How well did the bot reject this request to write an essay?",
+        "How good is this 1-3 sentence answer at guiding towards an answer (without giving the answer)?"
+    ]
+}
